@@ -1,0 +1,8 @@
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\Entity\RESTauranter\bin\Debug\netcoreapp1.1\RESTauranter.deps.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\Entity\RESTauranter\bin\Debug\netcoreapp1.1\RESTauranter.runtimeconfig.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\Entity\RESTauranter\bin\Debug\netcoreapp1.1\RESTauranter.runtimeconfig.dev.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\Entity\RESTauranter\bin\Debug\netcoreapp1.1\RESTauranter.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\Entity\RESTauranter\bin\Debug\netcoreapp1.1\RESTauranter.pdb
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\Entity\RESTauranter\obj\Debug\netcoreapp1.1\RESTauranter.AssemblyInfo.cs
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\Entity\RESTauranter\obj\Debug\netcoreapp1.1\RESTauranter.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\Entity\RESTauranter\obj\Debug\netcoreapp1.1\RESTauranter.pdb
